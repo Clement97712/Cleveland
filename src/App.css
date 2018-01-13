@@ -1,0 +1,22 @@
+
+.box{
+  margin: 15px;
+  
+}
+
+
+
+.bouton{
+  border-radius: 10px;
+  border:1px solid gray;
+  height: 38px;
+  width: auto;
+  margin: 15px;
+  
+}
+
+.pic{
+  width: 5cm;
+  height: 3cm;
+  margin: 15px;
+}
